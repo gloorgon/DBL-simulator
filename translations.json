@@ -12,6 +12,32 @@
       "mod": "Moderator",
       "reason": "Reason"
     },
+    "modlog": {
+      "titles": [
+        "Bot deleted"
+        "Ban",
+        "Kick",
+        "Mute"
+       ],
+      "Ban": {
+        "color": "15158332",
+        "user": "User"
+       },
+       "Kick": {
+        "color": 16433420
+        "user": "User"
+       },
+       "Mute": {
+         "color": "15158332",
+         "user": "User"
+       },
+       "Bot deleted": {
+         "color": "4298487",
+         "user": "Bot"
+       },
+      "mod": "Moderator",
+      "reason": "Reason"
+    },
     "help": {
       "title": "Here's some help for you i guess",
       "moderators_desc": "Ping the moderators",
@@ -35,6 +61,32 @@
       "title": "Bot reddedildi",
       "bot": "Tekne",
       "mod": "Arabulucu",
+      "reason": "Reason"
+    },
+     "modlog": {
+      "titles": [
+        "Bot deleted"
+        "Ban",
+        "Kick",
+        "Mute"
+       ],
+      "Ban": {
+        "color": "15158332",
+        "user": "User"
+       },
+       "Kick": {
+        "color": 16433420
+        "user": "User"
+       },
+       "Mute": {
+         "color": "15158332",
+         "user": "User"
+       },
+       "Bot deleted": {
+         "color": "4298487",
+         "user": "Bot"
+       },
+      "mod": "Moderator",
       "reason": "Reason"
     },
     "help": {
