@@ -25,6 +25,9 @@
     "Your bot seems to be an unmodified instance of [DiscordBotList/Luca](https://github.com/DiscordBotList/Luca). We don't allow unmodified clones of other bots.",
     "Your bot has a command that spams messages. That is considered API abuse.",
     "Aside from your dbl<set and dbl<info command nothing seems to be working.",
-    "Your bot seems to be a pretty much unmodified instance of Redbot (https://github.com/Cog-Creators/Red-DiscordBot). While we do allow instances of Red on the server, they must be significantly modified or have at least one self-made cog."
+    "Your bot seems to be a pretty much unmodified instance of Redbot (https://github.com/Cog-Creators/Red-DiscordBot). While we do allow instances of Red on the server, they must be significantly modified or have at least one self-made cog.",
+    "Your bot's token is still publicly available",
+    "We do not tolerate these types of bots on our website, Please refrain from submitting this again."
+    "One of your commands produce Loli images which is against TOS (-lewdneko)"
   ]
 }
