@@ -50,6 +50,16 @@
                 }
             });
         }
+        else if(args.design == "modlog") {
+         msg.channel.send({
+             embed: {
+                 "title": args.title,
+                 "color": args.color,
+                 "timestamp": args.timestamp,
+                 "fields": args.field
+             }
+         })
+        }
         else if (args.design === "fancy_artist") {
             msg.channel.send({
                 embed: {
